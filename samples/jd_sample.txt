@@ -1,0 +1,21 @@
+Software Engineering Intern — Machine Learning
+
+About the role
+We are looking for a Machine Learning Intern to join our applied AI team. You
+will help build and ship models that power product features used by millions.
+
+Responsibilities
+- Develop and evaluate machine learning models in Python.
+- Work with large datasets using pandas and SQL.
+- Build deep learning prototypes in PyTorch.
+- Contribute to natural language processing pipelines.
+- Deploy models behind a REST API and containerize services with Docker.
+- Collaborate with engineers using Git in an Agile environment.
+
+Requirements
+- Pursuing a degree in Computer Science or a related field.
+- Strong programming skills in Python.
+- Solid understanding of machine learning, statistics, and algorithms.
+- Experience with deep learning frameworks (PyTorch or TensorFlow).
+- Familiarity with NLP, SQL, and cloud platforms such as AWS is a plus.
+- Excellent communication and problem-solving skills.
