@@ -1,0 +1,25 @@
+Ujjwal Bhatia
+BSc Honours Computing Science (AI Specialization), University of Alberta
+
+SUMMARY
+Computing science student specializing in artificial intelligence. Comfortable
+building end-to-end software in Python, with hands-on machine learning and a
+strong foundation in data structures and algorithms.
+
+SKILLS
+Python, Java, SQL, Git, HTML, CSS, JavaScript
+Machine Learning, Data Analysis, Statistics, NumPy, pandas, Matplotlib
+Data Structures, Algorithms, Object-Oriented Programming, Unit Testing
+
+PROJECTS
+ML Classifiers from Scratch — Implemented K-Nearest Neighbors and Gaussian
+Naive Bayes in pure Python (no scikit-learn), with a hand-rolled train/test
+split and confusion-matrix evaluation; reached 97.4% accuracy on the Iris
+dataset, backed by a 9-test unit-test suite.
+
+csv-insights — A dependency-free Python CLI that profiles any CSV: infers
+column types, reports missing values, and computes descriptive statistics.
+
+EXPERIENCE
+Built several academic projects emphasizing clean code, testing, and clear
+documentation. Collaborated with classmates on team coursework using Git.
